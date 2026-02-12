@@ -1,0 +1,7 @@
+{
+  "name": "Arguenet - Debate Platform",
+  "description": "A high-stakes online multiplayer debate platform where users engage in structured arguments on political, AI, and social topics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
